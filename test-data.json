@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "test_user_1",
+      "password": "Test123!",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "test_user_2",
+      "password": "Test456!",
+      "role": "user"
+    }
+  ],
+  "environments": ["dev", "staging", "prod"],
+  "browsers": ["chrome", "firefox", "safari"]
+}
